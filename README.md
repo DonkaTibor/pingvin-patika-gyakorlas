@@ -1,0 +1,1 @@
+# pingvin-patika-gyakorlas
