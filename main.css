@@ -1,0 +1,185 @@
+/*=========BASIC==========*/
+
+p,
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.igazit {
+  min-height: 100%;
+}
+
+/*========MENÜ==========*/
+
+nav .navbar-nav li a {
+  color: black !important;
+}
+
+/*===========MENÜ LARGE==========*/
+
+.largenavingyenes {
+  font-size: 0.7rem;
+  color: black;
+}
+
+.kosaramikon {
+  font-size: 1.6rem;
+}
+
+/*=======KERESŐ SÁV===========*/
+
+.btn-first {
+  color: black !important;
+  border: 0;
+  opacity: 0.8;
+}
+
+::placeholder {
+  color: black !important;
+}
+
+/*=============1. CAROUSEL==========*/
+
+.elso {
+  width: 10% !important;
+  background-color: rgba(255, 139, 24, 0.85);
+  opacity: 1 !important;
+}
+
+
+.huncut-kep {
+  max-width: 1440px;
+}
+
+#carouselExampleIndicators {
+  max-width: 1400px;
+}
+
+
+
+/*===========1. CAROUSEL ALATTI BLOKKOK=============*/
+
+.box {
+  min-height: 100%;
+}
+
+/*============2. CAROUSEL=============*/
+
+.akcios-termekek {
+  font-weight: 500;
+  letter-spacing: 0.02rem;
+}
+
+.kosarba-text {
+  letter-spacing: 0.05rem;
+  font-weight: 500;
+}
+
+.button-card {
+  background-color: rgba(255, 139, 24, 0.85) !important;
+  color: white !important;
+}
+
+.button-card:hover {
+  color: rgba(255, 139, 24, 0.85) !important;
+  background: white !important;
+  transition: all 0.2s ease-in-out;
+}
+
+
+.kiszereles-text {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.multicard-text {
+  font-size: 0.9rem;
+}
+
+.webshop-ar {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+del {
+  color: red;
+}
+
+.sajt {
+  filter: invert(40%);
+  width: 17px !important;
+}
+
+/*====================3. CAROUSEL================*/
+
+.carouselExampleIndicators-4{
+  
+}
+.icon-caro3 {
+  filter: invert(70%);
+  width: 17px !important;
+  margin-top: 11rem;
+}
+
+.caro3-bg {
+  background: url('https://img.wallpapersafari.com/desktop/1600/900/95/95/16KwP3.jpg')
+}
+
+
+
+#carouselExampleControls-3 {
+  max-width: 1200px;
+}
+
+/*==============BLOG BEJEGYZÉSEK==================*/
+
+.blog-title {
+  font-size: 0.68rem;
+}
+
+.blog-text {
+  font-size: 1.4rem;
+  font-weight: 600
+}
+
+.card-blog {
+  min-height: 100%;
+}
+
+/*===============CAROUSEL VÁSÁRLÓI VÉLEMÉNYEK===============*/
+
+.sajt {
+  filter: invert(40%);
+  width: 17px !important;
+}
+
+.vasarlo-card {
+  border: none !important;
+}
+
+.carouselExampleIndicators-4 {
+  box-shadow: 10px 10px 10px 10px solid grey !important;
+}
+
+.kulonc-card {
+  border: 1px solid grey !important;
+}
+
+/*==========FOOTER================*/
+
+.footer-font {
+  font-size: 0.905rem;
+}
+
+.socialmedia-icon {
+  font-size: 2rem;
+  color: rgba(255, 139, 24, 0.85);
+}
